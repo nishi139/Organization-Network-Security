@@ -4,7 +4,7 @@ Mainly Focus: NETWORK SECURITY for an ORGANIZATION
 <img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/network-security.png">
 <br/>
 BY:
-NISHI SRIVASTAVA
+###NISHI SRIVASTAVA
 
 # INTRODUCTION
 
@@ -60,6 +60,7 @@ NISHI SRIVASTAVA
 
 <br/>
 # DHCP CONFIGURATION:
+<br/>
 A DHCP Server is a network server that automatically provides and assign IP addresses, default gateways and other network parameters to client devices.<br/>
 It relies on the standard protocol known as Dynamic Host Configuration Protocol or DHCP to respond to broadcast queries by clients. <br/>
 Without it , the network administrator has to manually set up every client that joins the network.<br/>
@@ -67,8 +68,9 @@ DHCP servers  assign each client with unique dynamic IP address, which changes w
  
  
  For FUll Content go through the PPT AVAILABLE :ORGANISATION NETWORK SECURITY.pptx link: https://github.com/nishi139/Onganisation-Network-Security/blob/9482ace5ed95dac0688ac5f9da3cbda5a4ed3685/Organisation%20network%20Security.pptx
-
+<br/>
 # CONCLUSION:
+<br/>
 - **FUTURE SCOPE**
   -  Enterprise connectivity is exploding, driven by globalization, virtualization and social computing. As corporate perimeters dissolve, the network security focus switches towards app and data-level security solutions.<br/>
   -  Who needs network security? Why don't we just build encryption and antimalware protection into end-points and simply enjoy open networks? From a security perspective that's always best and it's in line with the Jericho Forum vision. But in the real world it's not so simple.<br/>
