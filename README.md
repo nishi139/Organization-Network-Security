@@ -39,13 +39,7 @@ NISHI SRIVASTAVA
   - Serial-DCE cables<br/>
   - PC’S and Laptops(end  users )<br/> 
 
-5.Cisco Firewalls <br/>
-  - Cisco ASA 5505.<br/>
-  - Cisco ASA 5510.<br/>
-  - Cisco ASA 5520.<br/>
 
-
-<img src = "https://github.com/nishi139/Onganisation-Network-Security/blob/11a12aafba8f9c21afa0c81cab0d5e4f1857de94/How-a-NAT-virtual-switch-works.png"><br/>
 # MODULES:<br/>
 
 1.DHCP(Dynamic Host Configuration Protocol)<br/>
@@ -60,10 +54,6 @@ NISHI SRIVASTAVA
 <br/>
 5.Frame –relay
 <br/>
-6.MPLS(Multiple protocol  label Switching)
-<br/>
-  - VLAN(Virtual Local Area Network)<br/>
-  - VTP(VLAN Trunking Protocol)<br/>
 
 <br/>
 # DHCP CONFIGURATION:
@@ -74,7 +64,7 @@ Without it , the network administrator has to manually set up every client that 
 DHCP servers  assign each client with unique dynamic IP address, which changes when the client’s lease for that IP address has expired.<br/>
  
  
- For FUll Content go through the PPT AVAILABLE :ORGANISATION NETWORK SECURITY.pptx link: https://github.com/nishi139/Onganisation-Network-Security/blob/9482ace5ed95dac0688ac5f9da3cbda5a4ed3685/Organisation%20network%20Security.pptx
+ For full content go through the PPT AVAILABLE :ORGANISATION NETWORK SECURITY.pptx link: https://github.com/nishi139/Onganisation-Network-Security/blob/9482ace5ed95dac0688ac5f9da3cbda5a4ed3685/Organisation%20network%20Security.pptx
 <br/>
 # CONCLUSION:
 <br/>
@@ -88,7 +78,7 @@ DHCP servers  assign each client with unique dynamic IP address, which changes w
 I HAVE ALSO ATTACHED A PROJECT PACKET : 
 https://github.com/nishi139/Onganisation-Network-Security/blob/a979e0c7e35564385f0e251320ec7c580e386b18/Organisation%20Network%20Security.pkt
 
-You can open above file with CISCO PACKET TRACER 6.2 and above veersions.
+You can open above file with CISCO PACKET TRACER 6.2 and above versions.
  
  
  ## Thanks for your time!
