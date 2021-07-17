@@ -42,6 +42,7 @@ NISHI SRIVASTAVA
   - PC’S and Laptops(end  users )<br/> 
 
 
+<img src = 'https://github.com/nishi139/Onganisation-Network-Security/blob/9ae86737e64dc86ea17729e6752ee811053832b1/908086a881f58badd39aa0cc68b42f77.png'><br/>
 # MODULES:<br/>
 
 1.DHCP(Dynamic Host Configuration Protocol)<br/>
@@ -56,6 +57,9 @@ NISHI SRIVASTAVA
 <br/>
 5.Frame –relay
 <br/>
+6.Switching
+  - VLAN(Virtual Local Area Network)
+  - VTP(VLAN Trunking Protocol)
 
 <br/>
 # DHCP CONFIGURATION:
