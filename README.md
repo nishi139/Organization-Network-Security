@@ -4,14 +4,14 @@ Mainly Focus: NETWORK SECURITY for an ORGANIZATION
 <img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/network-security.png">
 <br/>
 BY:
-###NISHI SRIVASTAVA
+NISHI SRIVASTAVA
 
 # INTRODUCTION
 
-1.In this project we have shown an organization or a firm network connectivity wit its all sub branches or departments working collaborately as a part of it through various networking devices. <br>
-2.This whole organizational setup comprises of its restricted accessibility to their members only which we have implemented in this project.
-3. Network security is the practice of preventing and protecting against unauthorized intrusion into corporate networks. As a philosophy, it complements endpoint security, which focuses on individual devices; network security instead focuses on how those devices interact, and on the connective tissue between them.
-4.This project inculcates the network security of an organization from various noticed cyber hacks.
+1.In this project we have shown an organization or a firm network connectivity wit its all sub branches or departments working collaborately as a part of it through various networking devices. <br/>
+2.This whole organizational setup comprises of its restricted accessibility to their members only which we have implemented in this project.<br/>
+3. Network security is the practice of preventing and protecting against unauthorized intrusion into corporate networks. As a philosophy, it complements endpoint security, which focuses on individual devices; network security instead focuses on how those devices interact, and on the connective tissue between them.<br/>
+4.This project inculcates the network security of an organization from various noticed cyber hacks.<br/>
 
 
 <img src = "https://github.com/nishi139/Onganisation-Network-Security/blob/8f170227208814bf911d94fd5120dc883f16b351/network-security%20(1).png">
