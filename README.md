@@ -1,10 +1,10 @@
-# ** Onganisation-Network-Security**
+# **Onganisation-Network-Security**
 Mainly Focus: NETWORK SECURITY for an ORGANIZATION
 <br/>
 <img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/network-security.png">
 <br/>
-BY:-
-# NISHI SRIVASTAVA
+BY:
+NISHI SRIVASTAVA
 
 # INTRODUCTION
 
