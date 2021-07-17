@@ -20,9 +20,9 @@ NISHI SRIVASTAVA
 <br/>
 1.Routers
 <br/>
-    - 1841 series <br/>
-    - 2901 series <br/>
-    - 2911 series <br/>
+  - 1841 series <br/>
+  - 2901 series <br/>
+  - 2911 series <br/>
 
 2.Catalyst Switches 
 <br/>
