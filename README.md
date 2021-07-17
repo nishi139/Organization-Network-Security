@@ -19,29 +19,29 @@ NISHI SRIVASTAVA
 # RESOURCE LIST:
 <br/>
 1.Routers <br/>
--1841 series <br/>
--2901 series <br/>
--2911 series <br/>
+  - 1841 series <br/>
+  - 2901 series <br/>
+  - 2911 series <br/>
 
 2.Catalyst Switches 
 <br/>
--2960 series <br/>
+  - 2960 series <br/>
 
 3.Connectors<br/>
--RJ-45<br/>
+  - RJ-45<br/>
 
 4.Cables<br/>
--Straight t-over cables<br/>
--Rolled-over cables<br/>
--Cross-over cables<br/>
--Console cable<br/>
--Serial-DCE cables<br/>
--PC’S and Laptops(end  users )<br/> 
+  - Straight t-over cables<br/>
+  - Rolled-over cables<br/>
+  - Cross-over cables<br/>
+  - Console cable<br/>
+  - Serial-DCE cables<br/>
+  - PC’S and Laptops(end  users )<br/> 
 
 5.Cisco Firewalls <br/>
---Cisco ASA 5505.<br/>
--Cisco ASA 5510.<br/>
--Cisco ASA 5520.<br/>
+  - Cisco ASA 5505.<br/>
+  - Cisco ASA 5510.<br/>
+  - Cisco ASA 5520.<br/>
 
 
 <img src = "https://github.com/nishi139/Onganisation-Network-Security/blob/11a12aafba8f9c21afa0c81cab0d5e4f1857de94/How-a-NAT-virtual-switch-works.png"><br/>
