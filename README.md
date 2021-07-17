@@ -75,5 +75,10 @@ DHCP servers  assign each client with unique dynamic IP address, which changes w
   - One of the biggest security concerns today is the insider threat. In response to this, you can deploy many interesting techniques in networks to detect anomalous user behavior. Valuable intelligence can be derived by profiling, fusing and mining message content, traffic patterns or IT activity.<br/>
   - The future of network security might be far from clear-cut. One thing is clear - it will certainly be richer and more sophisticated than we've seen so far. Determining how to plan for a business environment in which everyone is connected and security expectations are high is not trivial. We all have to do it.<br/>
 
-  
+
+## I HAVE ALSO ATTACHED A PROJECT PACKET : https://github.com/nishi139/Onganisation-Network-Security/blob/a979e0c7e35564385f0e251320ec7c580e386b18/Organisation%20Network%20Security.pkt
+
+You can open tis file with CISCO PACKET TRACER 6.2 and above veersions.
+ 
+ 
  ## Thanks for your time!
