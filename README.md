@@ -1,13 +1,12 @@
-**# Onganisation-Network-Security**
-<img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/network-security.png">
-
+# ** Onganisation-Network-Security**
 Mainly Focus: NETWORK SECURITY for an ORGANIZATION
-
-
+<br/>
+<img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/network-security.png">
+<br/>
 BY:-
 # NISHI SRIVASTAVA
 
-#INTRODUCTION
+# INTRODUCTION
 
 1.In this project we have shown an organization or a firm network connectivity wit its all sub branches or departments working collaborately as a part of it through various networking devices. <br>
 2.This whole organizational setup comprises of its restricted accessibility to their members only which we have implemented in this project.
@@ -16,47 +15,48 @@ BY:-
 
 <img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/OIP.jfif">
 
-#RESOURCE LIST:
-
-1.Routers 
--1841 series
--2901 series
--2911 series
+# RESOURCE LIST:
+<br/>
+1.Routers <br/>
+-1841 series <br/>
+-2901 series <br/>
+-2911 series <br/>
 
 2.Catalyst Switches 
--2960 series
+<br/>
+-2960 series <br/>
 
-3.Connectors
--RJ-45
+3.Connectors<br/>
+-RJ-45<br/>
 
-4.Cables
--Straight t-over cables
--Rolled-over cables
--Cross-over cables
--Console cable
--Serial-DCE cables
--PC’S and Laptops(end  users ) 
+4.Cables<br/>
+-Straight t-over cables<br/>
+-Rolled-over cables<br/>
+-Cross-over cables<br/>
+-Console cable<br/>
+-Serial-DCE cables<br/>
+-PC’S and Laptops(end  users )<br/> 
 
-5.Cisco Firewalls 
---Cisco ASA 5505.
--Cisco ASA 5510.
--Cisco ASA 5520.
+5.Cisco Firewalls <br/>
+--Cisco ASA 5505.<br/>
+-Cisco ASA 5510.<br/>
+-Cisco ASA 5520.<br/>
 
-#MODULES:
+# MODULES:<br/>
 
-1.DHCP(Dynamic Host Configuration Protocol)
-2.Routing Protocols
--RIP
--EIGRP
-3.NAT(Network Address Translation)
-4.ACL(Access-Control List)
-5.Frame –relay
-6.MPLS(Multiple protocol  label Switching)
--VLAN(Virtual Local Area Network)
--VTP(VLAN Trunking Protocol)
+1.DHCP(Dynamic Host Configuration Protocol)<br/>
+2.Routing Protocols<br/>
+  - RIP<br/>
+  - EIGRP<br/>
+3.NAT(Network Address Translation)<br/>
+4.ACL(Access-Control List)<br/>
+5.Frame –relay<br/>
+6.MPLS(Multiple protocol  label Switching)<br/>
+  - VLAN(Virtual Local Area Network)<br/>
+  - VTP(VLAN Trunking Protocol)<br/>
 
-
-#DHCP CONFIGURATION:
+<br/>
+# DHCP CONFIGURATION:
 A DHCP Server is a network server that automatically provides and assign IP addresses, default gateways and other network parameters to client devices.<br/>
 It relies on the standard protocol known as Dynamic Host Configuration Protocol or DHCP to respond to broadcast queries by clients. <br/>
 Without it , the network administrator has to manually set up every client that joins the network.<br/>
