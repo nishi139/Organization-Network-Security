@@ -43,6 +43,8 @@ NISHI SRIVASTAVA
 -Cisco ASA 5510.<br/>
 -Cisco ASA 5520.<br/>
 
+
+<img src = "https://github.com/nishi139/Onganisation-Network-Security/blob/11a12aafba8f9c21afa0c81cab0d5e4f1857de94/How-a-NAT-virtual-switch-works.png"><br/>
 # MODULES:<br/>
 
 1.DHCP(Dynamic Host Configuration Protocol)<br/>
