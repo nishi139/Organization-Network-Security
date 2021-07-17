@@ -13,7 +13,7 @@ NISHI SRIVASTAVA
 3. Network security is the practice of preventing and protecting against unauthorized intrusion into corporate networks. As a philosophy, it complements endpoint security, which focuses on individual devices; network security instead focuses on how those devices interact, and on the connective tissue between them.
 4.This project inculcates the network security of an organization from various noticed cyber hacks.
 
-<img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/OIP.jfif">
+<img src ="https://github.com/nishi139/Onganisation-Network-Security/blob/a2bf413564c7d89a04d643a871d4dd9d7bb9e730/OIP.jfif" style = "hieght:50px; width:80px;">
 
 # RESOURCE LIST:
 <br/>
