@@ -76,9 +76,10 @@ DHCP servers  assign each client with unique dynamic IP address, which changes w
   - The future of network security might be far from clear-cut. One thing is clear - it will certainly be richer and more sophisticated than we've seen so far. Determining how to plan for a business environment in which everyone is connected and security expectations are high is not trivial. We all have to do it.<br/>
 
 
-## I HAVE ALSO ATTACHED A PROJECT PACKET : https://github.com/nishi139/Onganisation-Network-Security/blob/a979e0c7e35564385f0e251320ec7c580e386b18/Organisation%20Network%20Security.pkt
+I HAVE ALSO ATTACHED A PROJECT PACKET : 
+https://github.com/nishi139/Onganisation-Network-Security/blob/a979e0c7e35564385f0e251320ec7c580e386b18/Organisation%20Network%20Security.pkt
 
-You can open tis file with CISCO PACKET TRACER 6.2 and above veersions.
+You can open above file with CISCO PACKET TRACER 6.2 and above veersions.
  
  
  ## Thanks for your time!
