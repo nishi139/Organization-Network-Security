@@ -18,7 +18,8 @@ NISHI SRIVASTAVA
 <br/>
 # RESOURCE LIST:
 <br/>
-1.Routers <br/>
+1.Routers
+<br/>
   - 1841 series <br/>
   - 2901 series <br/>
   - 2911 series <br/>
@@ -48,13 +49,19 @@ NISHI SRIVASTAVA
 # MODULES:<br/>
 
 1.DHCP(Dynamic Host Configuration Protocol)<br/>
+
 2.Routing Protocols<br/>
   - RIP<br/>
   - EIGRP<br/>
-3.NAT(Network Address Translation)<br/>
-4.ACL(Access-Control List)<br/>
-5.Frame –relay<br/>
-6.MPLS(Multiple protocol  label Switching)<br/>
+
+3.NAT(Network Address Translation)
+<br/>
+4.ACL(Access-Control List)
+<br/>
+5.Frame –relay
+<br/>
+6.MPLS(Multiple protocol  label Switching)
+<br/>
   - VLAN(Virtual Local Area Network)<br/>
   - VTP(VLAN Trunking Protocol)<br/>
 
